@@ -1,4 +1,4 @@
-# Savvy CSS Z Index Utilities
+# Savvy CSS Z-Index Utilities
 
 [![Latest NPM release][npm-badge]][npm-badge-url]
 [![Dependencies][dependencies-badge]][dependencies-badge-url]
