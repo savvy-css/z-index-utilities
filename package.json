@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/z-index-utilities",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Z-index utilities for Savvy CSS.",
   "main": "build/z-index-utilities.css",
   "style": "build/z-index-utilities.css",
