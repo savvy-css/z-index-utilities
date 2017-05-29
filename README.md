@@ -1,5 +1,7 @@
 # Savvy CSS Z-Index Utilities
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/savvy-css/z-index-utilities.svg)](https://greenkeeper.io/)
+
 [![Latest NPM release][npm-badge]][npm-badge-url]
 [![Dependencies][dependencies-badge]][dependencies-badge-url]
 [![Dev Dependencies][devDependencies-badge]][devDependencies-badge-url]
